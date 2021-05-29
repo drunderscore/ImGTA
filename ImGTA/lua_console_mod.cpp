@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2021, James Puleo <james@jame.xyz>
+ *
+ * SPDX-License-Identifier: GPL-3.0-only
+ */
+
 #include "lua_console_mod.h"
 #include "imgui_internal.h"
 #include "script.h"

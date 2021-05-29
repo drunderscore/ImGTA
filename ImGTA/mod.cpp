@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2021, James Puleo <james@jame.xyz>
+ *
+ * SPDX-License-Identifier: GPL-3.0-only
+ */
+
 #include "mod.h"
 
 Mod::Mod( std::string name, bool hasWindow ) : m_szName( name ), m_bHasWindow( hasWindow )
